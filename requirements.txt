@@ -1,0 +1,14 @@
+bitsandbytes 
+accelerate 
+xformers 
+peft 
+trl 
+triton==3.1.0
+cut_cross_entropy 
+unsloth_zoo
+sentencepiece 
+protobuf 
+datasets 
+huggingface_hub 
+hf_transfer
+vllm
