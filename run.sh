@@ -27,5 +27,5 @@ python fine_tune.py \
   --merge_adapter \
   --push_to_hub \
   --hub_model_id "quidangz/llama-3.2-1b-instruct-UIE" \
-  --hub_token "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" \
+  --hub_token "..." \
   --max_new_tokens 256
